@@ -1,6 +1,6 @@
 # CS571 Workshop 04 - Continue
 ## MIU Courses Review App
-* Update the frontend to support Add/Edit/Delete a course
+* Update the frontend to support Add/Edit/Delete a course. For deleting a course, you just need to display an alert to confirm 'Do you want to delete this course?'
 * Write an Express server to support CRUD for courses, and make necessary changes in your app to communicate with the backend server:
     * `GET /courses`
     * `GET /courses/:course_id`
